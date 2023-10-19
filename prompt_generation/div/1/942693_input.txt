@@ -1,0 +1,1 @@
+((-1, 942693)) <<===>> Problem C can be solved with binary search  [<<<new_com>>>]
